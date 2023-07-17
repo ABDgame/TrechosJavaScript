@@ -1,6 +1,7 @@
 class Login{
 
-   static login=()=>
-  
+   static login=()=>{
+      
+   }
 }
 export{Login};
